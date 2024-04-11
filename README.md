@@ -21,7 +21,7 @@ You use git remote add origin  to be able to download the documents in the GitHu
 Git
 ## Installation instruction
 
-Git remote add origin 
+Git remote add origin git@github.com:Silvesterlenkai/codechallenge3.git
 ## Technologies used
 
 HTML Github Javascript

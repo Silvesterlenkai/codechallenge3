@@ -3,6 +3,9 @@
 11/04/2024
 ## Author
 Silvester Lenkai
+### LIVELINK
+https://silvesterlenkai.github.io/codechallenge3/
+
 ## Description
 
 Week 3 code challenge, We were given this challenges:
@@ -26,8 +29,6 @@ Git remote add origin git@github.com:Silvesterlenkai/codechallenge3.git
 
 HTML Github Javascript
 ## Support and contact details
-## LIVE LINK
-
 
 github.com:Silvester Lenkai
 ## License
